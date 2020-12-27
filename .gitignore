@@ -1,0 +1,15 @@
+*.csv
+*.pkl
+*.zip
+*.7z
+*.html
+
+knn_features.ipynb
+
+/catboost_info
+/data
+/mlruns
+/catboost_models
+/xgboost_models
+/.ipynb_checkpoints
+/__pycache__
